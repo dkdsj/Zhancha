@@ -1,0 +1,17 @@
+[
+ {
+    "vcName": "HomeVC",
+    "title": "首页",
+    "imageName": "tab_home"
+ },
+ {
+     "vcName": "FindVC",
+     "title": "发现",
+     "imageName": "tab_profile"
+ },
+ {
+     "vcName": "ProfileVC",
+     "title": "我",
+     "imageName": "tab_profile"
+ }
+ ]
